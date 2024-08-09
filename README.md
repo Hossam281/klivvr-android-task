@@ -15,7 +15,7 @@ This Android project demonstrates an application that renders a list of countrie
 
 - **Programming Language:** Kotlin
 - **Android SDK:** API Level 21+
-- **UI Components:** MainActivity, MapsActivity, CityActivity
+- **UI Components:** MainActivity, MapsActivity, CityViewModel, CityAdapter
 
 ## Binary Search for Range Determination
 
